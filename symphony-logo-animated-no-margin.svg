@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 50 423.39088 317.44274"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="symphony-logo-animated-no-margin.svg"
+   inkscape:export-filename="C:\Users\whiteheg\apps\Symphony Logo.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
+  <style
+     id="style2">
+		#arc_5 {
+		  stroke-dasharray: 0;
+		  animation: dash 3s ease-in-out forwards;
+		}
+		
+		#arc_4 {
+		  stroke-dasharray: 0;
+		  animation: dash 2.8s ease-in-out forwards;
+		}
+		
+		#arc_3 {
+		  stroke-dasharray: 0;
+		  animation: dash 2.6s ease-in-out forwards;
+		}
+		
+		#arc_2 {
+		  stroke-dasharray: 0;
+		  animation: dash 2.8s ease-in-out forwards;
+		}
+		
+		#arc_1 {
+		  stroke-dasharray: 0;
+		  animation: dash 3s ease-in-out forwards;
+		}
+
+		text {
+			opacity: 0;
+			animation: fadein 3s ease-in-out forwards;
+			animation-delay: 1.4s;
+		}
+
+		@keyframes fadein {
+			100% {
+				opacity: 1;
+			}
+		}
+
+		@keyframes dash {
+		  0% {
+			stroke-dasharray: 0 0 0 800;
+		  }
+		  100% {
+			stroke-dasharray: 800 0 800 800;
+		  }
+		}
+	</style>
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="lgrad_arc_5">
+      <stop
+         style="stop-color:#0033a0;stop-opacity:1;"
+         offset="0"
+         id="stop4657" />
+      <stop
+         style="stop-color:#0033a0;stop-opacity:0;"
+         offset="1"
+         id="stop4659" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#lgrad_arc_5"
+       id="grad_arc_5"
+       x1="200"
+       y1="100"
+       x2="300"
+       y2="175"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4662428,0,0,1.5797567,-0.16863782,-183.42237)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="lgrad_arc_4">
+      <stop
+         style="stop-color:#0033a0;stop-opacity:1;"
+         offset="0"
+         id="stop8" />
+      <stop
+         style="stop-color:#0033a0;stop-opacity:0;"
+         offset="1"
+         id="stop10" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#lgrad_arc_4"
+       id="grad_arc_4"
+       x1="180"
+       y1="110"
+       x2="280"
+       y2="165"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4662428,0,0,1.5797567,-0.16863782,-183.42237)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="lgrad_arc_3">
+      <stop
+         style="stop-color:#0033a0;stop-opacity:1;"
+         offset="0"
+         id="stop14" />
+      <stop
+         style="stop-color:#0033a0;stop-opacity:0;"
+         offset="1"
+         id="stop16" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#lgrad_arc_3"
+       id="grad_arc_3"
+       x1="175"
+       y1="100"
+       x2="275"
+       y2="155"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4662428,0,0,1.5797567,-0.16863782,-183.42237)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="lgrad_arc_2">
+      <stop
+         style="stop-color:#0033a0;stop-opacity:1;"
+         offset="0"
+         id="stop20" />
+      <stop
+         style="stop-color:#0033a0;stop-opacity:0;"
+         offset="1"
+         id="stop22" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#lgrad_arc_2"
+       id="grad_arc_2"
+       x1="170"
+       y1="90"
+       x2="270"
+       y2="150"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4662428,0,0,1.5797567,-0.16863782,-183.42237)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="lgrad_arc_1">
+      <stop
+         style="stop-color:#0033a0;stop-opacity:1;"
+         offset="0"
+         id="stop26" />
+      <stop
+         style="stop-color:#0033a0;stop-opacity:0;"
+         offset="1"
+         id="stop28" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#lgrad_arc_1"
+       id="grad_arc_1"
+       x1="165"
+       y1="85"
+       x2="265"
+       y2="145"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4662428,0,0,1.5797567,-0.16863782,-183.42237)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="577.62447"
+     inkscape:cy="661.38481"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     units="px"
+     showguides="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(21.253526,144.83747)">
+    <path
+       id="arc_5"
+       style="fill:none;stroke:url(#grad_arc_5);stroke-width:1.51934147;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -10.158347,172.39809 A 210.92812,241.77129 0 0 1 53.552696,-86.248994 210.92812,241.77129 0 0 1 286.42419,-117.60528 210.92812,241.77129 0 0 1 400.6949,117.07645"
+       sodipodi:type="arc"
+       sodipodi:open="true"
+       sodipodi:start="2.8274334"
+       sodipodi:end="0.080285146"
+       sodipodi:ry="241.77129"
+       sodipodi:rx="210.92812"
+       sodipodi:cy="97.686653"
+       sodipodi:cx="190.44621" />
+    <path
+       style="fill:none;stroke:url(#grad_arc_4);stroke-width:1.44337451;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="arc_4"
+       d="M -10.170603,172.34859 A 204.78474,235.32405 0 0 1 51.775489,-79.490056 204.78474,235.32405 0 0 1 277.98595,-109.79662 204.78474,235.32405 0 0 1 388.6874,118.91157"
+       sodipodi:type="arc"
+       sodipodi:open="true"
+       sodipodi:start="2.8274334"
+       sodipodi:end="0.082030475"
+       sodipodi:ry="235.32405"
+       sodipodi:rx="204.78474"
+       sodipodi:cy="99.629463"
+       sodipodi:cx="184.59126" />
+    <path
+       id="arc_3"
+       style="fill:none;stroke:url(#grad_arc_3);stroke-width:1.36740732;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -10.184645,172.29907 A 198.64323,228.87682 0 0 1 49.991665,-72.726214 198.64323,228.87682 0 0 1 269.53571,-101.99454 198.64323,228.87682 0 0 1 376.68286,120.72417"
+       sodipodi:type="arc"
+       sodipodi:open="true"
+       sodipodi:start="2.8274334"
+       sodipodi:end="0.083775804"
+       sodipodi:ry="228.87682"
+       sodipodi:rx="198.64323"
+       sodipodi:cy="101.57225"
+       sodipodi:cx="178.7363" />
+    <path
+       style="opacity:1;fill:none;stroke:url(#grad_arc_2);stroke-width:1.29144025;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="arc_2"
+       d="M -10.196786,172.2496 A 192.49974,222.42958 0 0 1 48.203743,-65.957405 192.49974,222.42958 0 0 1 261.07174,-94.198993 192.49974,222.42958 0 0 1 364.67756,122.51433"
+       sodipodi:type="arc"
+       sodipodi:open="true"
+       sodipodi:start="2.8274334"
+       sodipodi:end="0.085521133"
+       sodipodi:ry="222.42958"
+       sodipodi:rx="192.49974"
+       sodipodi:cy="103.51508"
+       sodipodi:cx="172.88135" />
+    <path
+       id="arc_1"
+       style="fill:none;stroke:url(#grad_arc_1);stroke-width:1.21547306;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -10.210595,172.20009 A 186.358,215.98235 0 0 1 46.409281,-59.183719 186.358,215.98235 0 0 1 252.59574,-86.410092 186.358,215.98235 0 0 1 352.67525,124.28198"
+       sodipodi:type="arc"
+       sodipodi:open="true"
+       sodipodi:start="2.8274334"
+       sodipodi:end="0.087266463"
+       sodipodi:ry="215.98235"
+       sodipodi:rx="186.358"
+       sodipodi:cy="105.45788"
+       sodipodi:cx="167.0264" />
+    <g
+       id="g60"
+       transform="translate(0,-52.034804)">
+      <g
+         id="name_tagline"
+         transform="translate(0,0.50329731)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75.18209076px;line-height:1.25;font-family:Garamond;-inkscape-font-specification:'Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0;fill:#202030;fill-opacity:1;stroke:none;stroke-width:0.88103324"
+           x="35.879398"
+           y="74.292557"
+           id="product_name"
+           transform="scale(0.85884066,1.1643603)"><tspan
+             sodipodi:role="line"
+             id="tspan4784"
+             x="35.879398"
+             y="74.292557"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75.18209076px;font-family:Garamond;-inkscape-font-specification:'Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.88103324">Symphony</tspan></text>
+        <text
+           transform="scale(0.91299976,1.0952905)"
+           id="product_tagline"
+           y="126.01702"
+           x="34.373978"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.93826485px;line-height:1.25;font-family:Garamond;-inkscape-font-specification:'Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0;fill:#202030;fill-opacity:1;stroke:none;stroke-width:0.28052628"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.93826485px;font-family:Garamond;-inkscape-font-specification:'Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.28052628"
+             y="126.01702"
+             x="34.373978"
+             id="tspan4816"
+             sodipodi:role="line">harmonizing clinical operations</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
